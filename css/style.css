@@ -289,9 +289,9 @@ font-size: 25px;
     margin-top:130px;
 }
 .skils h2{
-
+    text-transform: none;
     text-align: center;
-    
+    line-height: 1.5;    
 }
 .line_skil{
     width:331px;
